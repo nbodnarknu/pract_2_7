@@ -1,0 +1,4 @@
+name: pr27
+channels:
+  - defaults
+prefix: C:\Users\entop\.conda\envs\pr27
